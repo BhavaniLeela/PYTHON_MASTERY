@@ -1,0 +1,1 @@
+This folder contains some of the most commonly asked **number-based programming problems** in Python. These programs help build problem-solving skills and are frequently asked in coding interviews and online assessments.
